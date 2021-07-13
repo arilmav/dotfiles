@@ -1,0 +1,3 @@
+google-cloud-sdk
+iterm2
+snowflake-snowsql
